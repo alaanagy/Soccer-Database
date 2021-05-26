@@ -21,3 +21,5 @@ Soccer database is SQLite file, this database consists of 8 tables with differen
 
 
 ![image](https://user-images.githubusercontent.com/49722916/119686618-ccecef00-be46-11eb-88d8-13913f879dae.png)
+
+![image](https://user-images.githubusercontent.com/49722916/119686690-e1c98280-be46-11eb-8329-9846594d4846.png)
